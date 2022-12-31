@@ -1,0 +1,96 @@
+% Brian Moye
+
+<game>
+		<links>
+			<linkset>2,11,7,8</linkset>
+			<linkset>3,1,4,2</linkset>
+			<linkset>3,2,3,3</linkset>
+			<linkset>4,7,5,2</linkset>
+			<linkset>6,5,5,4</linkset>
+			<linkset>6,5,6,6</linkset>
+			<linkset>4,7,7,1</linkset>
+			<linkset>8,8,1,9</linkset>
+			<linkset>9,9,8,10</linkset>
+			<linkset>10,10,9,10</linkset>
+			<linkset>1,12,11,11</linkset>
+			<linkset>11,12,12,12</linkset>
+		</links>
+
+	% Area1
+		<area>
+			<desc>You see a dark forest around you, a wolf's howl echoes distantly from the East.</desc>
+			<feats>0,0</feats>
+		</area>
+      
+	% Area2
+		<area>
+			<desc>The forest seems to be getting thicker the further North you go.</desc>
+			<feats>0,0</feats>
+		</area>
+		
+	% Area3
+		<area>
+			<desc>You come to an impenetrable wall of plants, filled with thorns and dense shrubbery.</desc>
+			<feats>0,0</feats>
+		</area>
+
+	% Area4
+		<area>
+			<desc>You can't tell if the forest is getting thinner or thicker, everything looks the same.</desc>
+			<feats>0,0</feats>
+		</area>
+
+	% Area5
+		<area>
+			<desc>You see light from the North, could it possibly be the way out?</desc>
+			<feats>0,0</feats>
+		</area>
+
+
+	% Area 6
+		<area>
+			<desc>Freedom! You've escaped the dark forest!</desc>
+			<feats>0,1</feats>
+		</area>
+
+	% Area 7
+		<area>
+			<desc>Everything looks the same... what's going on?</desc>
+			<feats>0,0</feats>
+		</area>
+		
+	% Area 8
+		<area>
+			<desc>As you head East the forest appears to be thinning slightly.</desc>
+			<feats>0,0</feats>
+		</area>
+		
+	% Area 9
+		<area>
+			<desc>The forest is definitely getting thinner, you think you see light in the distance.</desc>
+			<feats>0,0</feats>
+		</area>
+		
+	% Area 10
+		<area>
+			<desc>You stumble across a pack of wolves in the middle of a hunt, they decide to change their target to you. You provide a healthy meal for the small pack of five.</desc>
+			<feats>1,0</feats>
+		</area>
+		
+	% Area 11
+		<area>
+			<desc>As you head south the foliage appears to be growing thicker.</desc>
+			<feats>0,0</feats>
+		</area>
+		
+	% Area 12
+		<area>
+			<desc>As you continue South you see a rather large decrepit looking tree. As you walk under it, you trip over a root and cause the tree to fall on your head, instantly killing you.</desc>
+			<feats>1,0</feats>
+		</area>
+		
+</game>
+
+
+
+
